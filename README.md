@@ -15,6 +15,10 @@ This project combines **relational SQL modeling** and **Tableau visual analytics
 The dashboard is live on **Tableau Public**:  
 🔗 [View Dashboard](https://public.tableau.com/app/profile/karishma.mehta8733/viz/HMGlobalRetailStoreIntelligenceDashboard/Dashboard1)
 
+## Download Tableau Workbook
+
+➡️ [Click here to download the full `.twbx` dashboard](https://github.com/karishma17mehta/H-M-Global-Store-Dashboard/releases/latest)
+
 ---
 
 ## Tech Stack
